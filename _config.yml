@@ -1,22 +1,22 @@
 # main text of home
-name: John Doe
-bio: A Man who travels the world eating noodles
+name: Chaeeon Lim
+bio: Find a problem, define it, and solve it.
 
 # twitter summary info
 description: A blog about technology and stuff related
 
 # if it's an external image, update below for true
 # better with square images
-external-image: false
-picture: assets/images/profile.jpg
+external-image: true
+picture: https://media-exp1.licdn.com/dms/image/C5603AQHCLmOXhPaTIw/profile-displayphoto-shrink_200_200/0/1516997380739?e=1632355200&v=beta&t=I1EwkCDYeNZgqeIC5imDVH6WprhIUh_UUysEz3Xd9Jw
 
 # If you want to include your resume, set to true
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://google.com/?q=my+resume
+resume-url: https://chaeeon.notion.site/Chaeeon-Lim-3b514e70014e43888b5dda5f3c95d720
 
-url: https://sergiokopplin.github.io/indigo
+url: https://chaeeon-lim.github.io/
 # your url: https://USERNAME.github.io
 
 permalink: /:title/
@@ -34,37 +34,38 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-# instagram: myinstagram
+facebook: chaeeon.lim.9
+# twitter: mytwitter
+instagram: pastanerd0416
 # pinterest: mypinterest
-# linkedin: mylinkedin
+linkedin: chae-eon-lim-94678a100
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+github: chaeeon-lim
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
 # quora: userquora
 # reddit: username
-medium: medium
+# medium: medium
 # vimeo: myvimeo
 # lanyrd: mylanyrd
-email: myemail@gmail.com
+email: pastanerd0416@gmail.com
 
 authors:
-  johndoe:
-    name: John Doe
-    bio: A Man who travels the world eating noodles
-    external-image: false
-    picture: assets/images/profile.jpg
-    twitter: johndoe
-  jamesfoster:
-    name: James Foster
-    bio: A Man who develops software with coffee
-    external-image: false
-    picture: assets/images/james.jpg
-    twitter: jamesfoster
+  chaeeon-lim:
+    name: Chaeeon Lim
+    bio: 99 failed, 100 trials. Find a problem, define it, and solve it.
+    external-image: true
+    picture: https://media-exp1.licdn.com/dms/image/C5603AQHCLmOXhPaTIw/profile-displayphoto-shrink_200_200/0/1516997380739?e=1632355200&v=beta&t=I1EwkCDYeNZgqeIC5imDVH6WprhIUh_UUysEz3Xd9Jw
+    linkedin: https://www.linkedin.com/in/chae-eon-lim-94678a100/
+    # twitter: johndoe
+  # jamesfoster:
+  #   name: James Foster
+  #   bio: A Man who develops software with coffee
+  #   external-image: false
+  #   picture: assets/images/james.jpg
+  #   twitter: jamesfoster
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
@@ -73,7 +74,7 @@ width: normal
 
 # if you do/don't need pagination, toggle 'enabled' between true/false below
 pagination:
-  enabled: false
+  enabled: true
   sort_reverse: true # display recent posts first
   title: ":title" # Changing this will mess up the header display logic
   per_page: 5
